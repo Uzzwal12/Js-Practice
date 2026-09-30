@@ -1,0 +1,5 @@
+2025-08-20 10:00:00 INFO Server started
+2025-08-20 10:01:00 WARNING Low memory
+2025-08-20 10:02:00 ERROR Connection failed
+2025-08-20 10:03:00 INFO Request handled
+2025-08-20 10:04:00 ERROR Timeout

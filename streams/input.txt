@@ -1,0 +1,1 @@
+hello, this file is to test stream pipeline to transform data into uppercase

@@ -1,0 +1,10 @@
+This is a sample input file for testing zlib compression and decompression in Node.js.
+
+Line 1: Hello World!
+Line 2: The quick brown fox jumps over the lazy dog.
+Line 3: 1234567890
+Line 4: Special characters !@#$%^&*()_+{}[]|:;<>,.?/~`
+Line 5: Repeated text for compression testing: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Line 6: Repeated text for compression testing: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Line 7: Repeated text for compression testing: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Line 8: End of file.
